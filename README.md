@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whtduck1&label=Profile%20views&color=0e75b6&style=flat" alt="whtduck1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whtduck1" alt="whtduck1" /></a> </p>
-
 - 🔭 I’m currently working on [BingoGenerator](https://github.com/whtduck1/BingoGenerator)
 
 - 🌱 I’m currently learning **Angular, React, TypeScript, NgRx, RxJS, REST APIs, and modern styling tools like Tailwind CSS.**
